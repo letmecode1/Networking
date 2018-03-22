@@ -1,6 +1,6 @@
 # Types of Malware
 
-Purpose of Malware = Monetary Goal
+**Purpose of Malware = Monetary Goal**
 
 **Virus:** Attachs itself to a program,ussually an executable file, .Exe must be opened or running, no human action means the virus doesn't spread.
 
