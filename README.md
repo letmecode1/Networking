@@ -13,5 +13,7 @@ Purpose of Malware = Monetary Goal
 **Spyware:** Trojan horse like software, records browsing, key strokes, and sends it to the attacker, (sometimes it may come with a bundle software, making the user unaware)
 
 **Grayware:** Accepted through EULA, behaves like Spyware/Trojan
+
 **Rootkits:** Backdoor access, software allowing in and out access without being detected
+
 **Hoaxes:** Message warning the recipient of a non-existent computer virus/threat, false information, news which results in a DoS attack. 
