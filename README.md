@@ -16,4 +16,9 @@
 
 **Rootkits:** Backdoor access, software allowing in and out access without being detected
 
-**Hoaxes:** Message warning the recipient of a non-existent computer virus/threat, false information, news which results in a DoS attack. 
+**Hoaxes:** Message warning the recipient of a non-existent computer virus/threat, false information, news which results in a DoS attack.
+
+
+## TCP/IP Model ##
+![TCP and IP image](images/OSI_vs_TCP_IP_model.jpgi)
+ 
