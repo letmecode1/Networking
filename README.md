@@ -20,5 +20,5 @@
 
 
 ## TCP/IP Model: ##
-(/images/OSI_vs_TCP_IP_model.png)
+![TCP/IP Image](/images/OSI_vs_TCP_IP_model.png)
  
