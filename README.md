@@ -19,6 +19,10 @@
 **Hoaxes:** Message warning the recipient of a non-existent computer virus/threat, false information, news which results in a DoS attack.
 
 
-## TCP/IP Model: ##
+# TCP/IP Model: #
 ![TCP/IP Image](/images/OSI_vs_TCP_IP_model.png)
  
+ 
+ # MAC vs. IP #
+![MAC/IP Image](/images/mac_ip.png)
+
