@@ -24,5 +24,5 @@
  
  
  # MAC vs. IP #
-![MAC/IP Image](/images/mac_ip.png)
+![MAC/IP Image](/images/MAC_and_IP.png)
 
