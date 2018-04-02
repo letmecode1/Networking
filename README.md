@@ -47,4 +47,3 @@ Process of dividing a network into small networks and is a common task on IPv4 n
 ![cidr.PNG](/images/cidr.PNG)
 
 # Network Mask/Host Address Reference #
-![netmask.PNG](/images/netmask.PNG)
