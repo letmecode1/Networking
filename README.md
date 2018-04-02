@@ -44,4 +44,4 @@
 
 # Subnetting #
 Process of dividing a network into small networks and is a common task on IPv4 networks.
-![cidr/Image](/images/cidr.png)
+![cidr.png](/images/cidr.png)
