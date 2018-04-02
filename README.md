@@ -35,7 +35,7 @@
 
 **Data Link:** Mac address to switch or router, bits into frames, transfer from point to point access from a computer to a device, packages those bits/data into frames, Media Access Control Address
 
-**Physical:** Cables, turns data into bits/physical electrical stage, conversion from Data to signals, pinouts, voltages, code, specifications, NIC
+**Physical:** Cables, turns data into bits, physical/electrical stage, conversion from Data to signals, pinouts, voltages, code, specifications, NIC
 
  
  
