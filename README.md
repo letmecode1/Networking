@@ -22,7 +22,7 @@
 # TCP/IP Model: #
 ![TCP/IP Image](/images/OSI_vs_TCP_IP_model.png)
 
-# More details about each layer:#
+# More details about each layer:
 **Application:** Allows programs to connect to our network
 
 **Presentation:** Encrypt/Decrypt data for humans to read on screen
