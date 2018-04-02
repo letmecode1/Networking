@@ -42,3 +42,6 @@
  # MAC vs. IP #
 ![MAC/IP Image](/images/MAC_and_IP.png)
 
+# Subnetting #
+Process of dividing a network into small networks and is a common task on IPv4 networks. 
+
