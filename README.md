@@ -25,11 +25,11 @@
 # More details about each layer:
 **Application:** Allows programs to connect to our network
 
-**Presentation:** Encrypt/Decrypt data for humans to read on screen
+**Presentation:** Encrypt/Decrypt data for humans to read on screen, translates packages of data into another form, raw data into a certain format
 
-**Session:** Who’s allowed to talk and when
+**Session:** Who’s allowed to talk and when, performs a handshake with another computer, control connections between computers establish, terminate, manage connections, regulate who can send what, and how much, coordinates the conversation, and controls/manages layers 1 through 4
 
-**Transport:** Sessions into packets
+**Transport:** Sessions into packets, manage and control data packets, transfer of data, transfer of data, TCP = Transmission Control Protocol (receipt), UDP = User Datagram Protocol (no receipt)
 
 **Network:** IP address to router, packages the data into packets, you can change the IP #, IP used to transfer data to a computer on a different network, NIC = IP and MAC Address
 
