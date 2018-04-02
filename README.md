@@ -24,9 +24,13 @@
 
 # More details about each layer:#
 **Application:** Allows programs to connect to our network
+
 **Presentation:** Encrypt/Decrypt data for humans to read on screen
+
 **Session:** Who’s allowed to talk and when
+
 **Transport:** Sessions into packets
+
 **Network:** IP address to router, packages the data into packets, you can change the IP #, IP used to transfer data to a computer on a different network, NIC = IP and MAC Address
 
 **Data Link:** Mac address to switch or router, bits into frames, transfer from point to point access from a computer to a device, packages those bits/data into frames, Media Access Control Address
