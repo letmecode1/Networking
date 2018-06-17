@@ -48,3 +48,6 @@ Process of dividing a network into small networks and is a common task on IPv4 n
 
 # Network Mask/Host Address Reference #
 ![netmask.PNG](/images/netmask.PNG)
+
+# PING #
+Ping is a networking utility program or a tool to test if a particular host is reachable. When you ping a remote computer you are actually sending a messafe called echo request, the remote computer then replied to your message which is called echo reply. 
