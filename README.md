@@ -11,20 +11,23 @@
 **Hoaxes:** Message warning the recipient of a non-existent computer virus/threat, false information, news which results in a DoS attack.
 
 
-# TCP/IP Model: #
+# OSI and TCP/IP Model: #
 ![TCP/IP Image](/images/OSI_vs_TCP_IP_model.png)
 
 # More details about each layer:
-**Application:** Allows programs to connect to our network<br/>
-**Presentation:** Encrypt/Decrypt data for humans to read on screen, translates packages of data into another form, raw data into a certain format<br/>
-**Session:** Who’s allowed to talk and when, performs a handshake with another computer, control connections between computers establish, terminate, manage connections, regulate who can send what, and how much, coordinates the conversation, and controls/manages layers 1 through 4<br/>
-**Transport:** Sessions into packets, manage and control data packets, transfer of data, transfer of data, TCP = Transmission Control Protocol (receipt), UDP = User Datagram Protocol (no receipt)<br/>
-**Network:** IP address to router, packages the data into packets, you can change the IP #, IP used to transfer data to a computer on a different network, NIC = IP and MAC Address<br/>
-**Data Link:** Mac address to switch or router, bits into frames, transfer from point to point access from a computer to a device, packages those bits/data into frames, Media Access Control Address<br/>
-**Physical:** Cables, turns data into bits, physical/electrical stage, conversion from Data to signals, pinouts, voltages, code, specifications, NIC
+**Application** Allows programs to connect to our network<br/>
+**Presentation** Encrypt/Decrypt data for humans to read on screen, translates packages of data into another form, raw data into a certain format<br/>
+**Session** Who’s allowed to talk and when, performs a handshake with another computer, control connections between computers establish, terminate, manage connections, regulate who can send what, and how much, coordinates the conversation, and controls/manages layers 1 through 4<br/>
+**Transport** Sessions into packets, manage and control data packets, transfer of data, transfer of data, TCP = Transmission Control Protocol (receipt), UDP = User Datagram Protocol (no receipt)<br/>
+**Network** IP address to router, packages the data into packets, you can change the IP #, IP used to transfer data to a computer on a different network, NIC = IP and MAC Address<br/>
+**Data Link** Mac address to switch or router, bits into frames, transfer from point to point access from a computer to a device, packages those bits/data into frames, Media Access Control Address<br/>
+**Physical** Cables, turns data into bits, physical/electrical stage, conversion from Data to signals, pinouts, voltages, code, specifications, NIC<br/> 
 
- 
- 
+**Link Layer** This layer defines how to access a specific network topology, for example Ethernet, Token Ring, and so on.<br/>
+**Internet Layer** Sometimes called the network layer, the internet layer defines defines how to datagrams are formatted and handles the routing of data through the network. Examples, IP Version 4, IP Version 6, and the Internet Control Message Protocol (ICMP).<br/>
+**Transport Layer** This layer provides end-to-end data delivery service. This is the layer that assembles packets and sends them to the Internet layer for processing. Examples, TCP and UDP.<br/>
+**Application Layer** This layer consists of application programs and servers as the network interface into user application. Examples, Telnet, FTP, and DNS<br/>
+
  # MAC vs. IP #
 ![MAC/IP Image](/images/MAC_and_IP.png)
 
