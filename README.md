@@ -52,9 +52,9 @@ Traceroute is a utility that records the route (the specific gateway computers a
 **Transmission Control Protocol (TCP)** The most commonly used protocol on the Internet, because TCP offers error correction<br/>
 
 # X Area Netowrk:
-**Local Area Network (Lan)** Limited geographical area
-**Wide Area Network (WAN)** Large geographical area
-**Metropolitan Area Network (MAN)** Covers a city
-**Campus Area Network (CAN)** Covers building on a campus
-**Personal Area Network (PAN)** Very small network
-**Storage Area Network (SAN)** Robust part of LAN housing storage
+**Local Area Network (Lan)** Limited geographical area<br/>
+**Wide Area Network (WAN)** Large geographical area<br/>
+**Metropolitan Area Network (MAN)** Covers a city<br/>
+**Campus Area Network (CAN)** Covers building on a campus<br/>
+**Personal Area Network (PAN)** Very small network<br/>
+**Storage Area Network (SAN)** Robust part of LAN housing storage<br/>
