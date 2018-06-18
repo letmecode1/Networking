@@ -39,12 +39,14 @@ Process of dividing a network into small networks and is a common task on IPv4 n
 ![netmask.PNG](/images/netmask.PNG)
 
 # PING #
-Ping is a networking utility program or a tool to test if a particular host is reachable. When you ping a remote computer you are actually sending a messafe called echo request, the remote computer then replied to your message which is called echo reply. 
+Ping is a networking utility program or a tool to test if a particular host is reachable. When you ping a remote computer you are actually sending a messafe called echo request, the remote computer then replied to your message which is called echo reply. Implements ICMP protocol.
 
 
 # Traceroute:
-Traceroute is a utility that records the route (the specific gateway computers at each hop through the internet between your computer and a specified destination computer.) It also calculates and displays the amount of time each hop took.
+Traceroute determines the network path between two hosts("Trace the Route") and it calculates and displays the amount of time each hop took.
 
+**tracert** Windows
+**traceroute** Linux/Windows
 **Hop** Journey from one computer to anothero<br/>
 **Packets** Information that travels along the traceroute is knowno<br/>
 **ICMP** Internet Control Message Protocol (ICMP) / relay query messages<br/>
