@@ -45,8 +45,8 @@ Ping is a networking utility program or a tool to test if a particular host is r
 # Traceroute:
 Traceroute determines the network path between two hosts("Trace the Route") and it calculates and displays the amount of time each hop took.
 
-**tracert** Windows
-**traceroute** Linux/Windows
+**tracert** Windows<br/>
+**traceroute** Linux/Windows<br/>
 **Hop** Journey from one computer to anothero<br/>
 **Packets** Information that travels along the traceroute is knowno<br/>
 **ICMP** Internet Control Message Protocol (ICMP) / relay query messages<br/>
