@@ -23,10 +23,10 @@
 **Data Link** Mac address to switch or router, bits into frames, transfer from point to point access from a computer to a device, packages those bits/data into frames, Media Access Control Address<br/>
 **Physical** Cables, turns data into bits, physical/electrical stage, conversion from Data to signals, pinouts, voltages, code, specifications, NIC<br/> 
 
-**Link Layer** This layer defines how to access a specific network topology, for example Ethernet, Token Ring, and so on.<br/>
-**Internet Layer** Sometimes called the network layer, the internet layer defines defines how to datagrams are formatted and handles the routing of data through the network. Examples, IP Version 4, IP Version 6, and the Internet Control Message Protocol (ICMP).<br/>
+**Link Layer** This layer defines how to access a specific network topology, for example Ethernet, Token Ring, ARP and so on.<br/>
+**Internet Layer** Sometimes called the network layer, the internet layer defines defines how to datagrams are formatted and handles the routing of data through the network. Examples, IP Version 4, IP Version 6, and the Internet Control Message Protocol (ICMP), Routing.<br/>
 **Transport Layer** This layer provides end-to-end data delivery service. This is the layer that assembles packets and sends them to the Internet layer for processing. Examples, TCP and UDP.<br/>
-**Application Layer** This layer consists of application programs and servers as the network interface into user application. Examples, Telnet, FTP, and DNS<br/>
+**Application Layer** This layer consists of application programs and servers as the network interface into user application. ICMP Examples, Ping, Host Unreachable, TCP Examples, HTTP, FTP, POP3, Telnet, DNS (backup), UDP Examples, TFTP, DHCP, SNMP, RPC, DNS (primary)  <br/>
 
  # MAC vs. IP #
 ![MAC/IP Image](/images/MAC_and_IP.png)
